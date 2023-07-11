@@ -1,4 +1,9 @@
 
+DEBUG
+![image](https://github.com/tjca1/fuse-quarkus-camel-producer/assets/28515964/998f08ec-8eb9-4c5c-badb-76217cb228c5)
+
+
+
 ![image](https://user-images.githubusercontent.com/28515964/252679014-2c2e414f-3492-4598-a1ea-74940be64b69.jpg)
 ![image](https://user-images.githubusercontent.com/28515964/252679079-bec35910-36a3-4806-b7ea-6b2810de0890.jpg)
 ![image](https://user-images.githubusercontent.com/28515964/252679108-7c535a2d-7e39-4e7c-b686-0d2ebfb506a1.jpg)
