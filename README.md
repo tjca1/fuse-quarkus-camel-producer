@@ -1,5 +1,5 @@
 [[1;34mINFO[m] Nothing to compile - all classes are up to date
-Listening for transport dt_socket at address: 54208
+Listening for transport dt_socket at address: <B>54208<B>
 ![image](https://github.com/tjca1/fuse-quarkus-camel-producer/assets/28515964/3c7e0a80-7697-4966-83a3-b7bda6873a46)
 
 DEBUG
