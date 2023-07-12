@@ -12,6 +12,14 @@ DEBUG
 ![image](https://user-images.githubusercontent.com/28515964/252679108-7c535a2d-7e39-4e7c-b686-0d2ebfb506a1.jpg)
 ![image](https://user-images.githubusercontent.com/28515964/252679134-96ea32d8-433f-47a2-8193-262a22f8e234.jpg) 
 
+Gerando imagem docker ....
+<b>create images<b>
+cd C:\ProjectsIntelliJ\fuse-quarkus-camel-producer\src\main\docker\
+docker build -f Dockerfile.jvm -t tjca1/fuse-quarkus-camel-producer /./.
+               <b>(/./.) adequando diretorio<\b>
+![image](https://github.com/tjca1/fuse-quarkus-camel-producer/assets/28515964/01a922b2-c296-4b29-9542-27e9269ad8b7)
+
+
 
 
 = Kafka example : A Camel Quarkus example
