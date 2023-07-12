@@ -16,7 +16,8 @@ Gerando imagem docker ....
 <b>create images<b>
 cd C:\ProjectsIntelliJ\fuse-quarkus-camel-producer\src\main\docker\
 docker build -f Dockerfile.jvm -t tjca1/fuse-quarkus-camel-producer /./.
-               <b>(/./.) adequando diretorio<b>
+<br>
+               <b>*(/./.) adequando diretorio<b>
 ![image](https://github.com/tjca1/fuse-quarkus-camel-producer/assets/28515964/01a922b2-c296-4b29-9542-27e9269ad8b7)
 
 
